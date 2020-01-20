@@ -1,0 +1,6 @@
+{
+    "port": "5000",
+    "jwtSecret": "viktor mern project",
+    "mongoUri": "mongodb+srv://Lorgar:warhammer40000@cluster0-yi4nv.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
