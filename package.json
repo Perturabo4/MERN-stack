@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Perturabo4/MERN-stack#readme",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "config": "^3.2.4",
     "express": "^4.17.1",
     "express-validator": "^6.3.1",
